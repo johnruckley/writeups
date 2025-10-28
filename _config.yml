@@ -1,4 +1,7 @@
-theme: modernist
+remote_theme: modernist
 author: John Ruckley
 title: OSU CTF League Writeups
 description:
+
+plugins:
+- jekyll-remote-theme
